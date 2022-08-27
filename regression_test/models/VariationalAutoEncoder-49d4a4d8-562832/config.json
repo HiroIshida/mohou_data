@@ -1,0 +1,5 @@
+{
+  "image_type": "RGBImage",
+  "n_bottleneck": 16,
+  "n_pixel": 224
+}

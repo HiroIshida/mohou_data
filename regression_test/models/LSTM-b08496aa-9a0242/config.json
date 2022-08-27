@@ -1,0 +1,10 @@
+{
+  "n_state_with_flag": 24,
+  "n_static_context": 0,
+  "n_hidden": 200,
+  "n_layer": 4,
+  "n_output_layer": 1,
+  "variational": false,
+  "type_wise_loss": false,
+  "type_bound_table": "{<class 'mohou.types.RGBImage'>: slice(0, 16, None), <class 'mohou.types.AngleVector'>: slice(16, 23, None), <class 'mohou.types.TerminateFlag'>: slice(23, 24, None)} [note!] mohou > type <class 'dict'> is not supported yet. converted by str()"
+}
